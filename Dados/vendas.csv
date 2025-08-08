@@ -1,0 +1,201 @@
+Data,Produto,Categoria,Quantidade,Preco_Unitario,Cidade
+2025-06-18,Relógio,Acessórios,4,250,São Paulo
+2025-05-12,Relógio,Acessórios,2,250,Curitiba
+2025-05-06,Relógio,Acessórios,1,250,Porto Alegre
+2025-02-28,Calça Jeans,Roupas,2,120,São Paulo
+2025-06-15,Jaqueta,Roupas,1,180,Salvador
+2025-06-08,Camiseta,Roupas,4,50,Belo Horizonte
+2025-06-15,Jaqueta,Roupas,2,180,Porto Alegre
+2025-04-28,Tênis,Calçados,1,200,Belo Horizonte
+2025-02-25,Tênis,Calçados,2,200,Recife
+2025-03-01,Jaqueta,Roupas,1,180,São Paulo
+2025-01-25,Tênis,Calçados,5,200,Recife
+2025-04-16,Relógio,Acessórios,4,250,Salvador
+2025-03-13,Chinelo,Calçados,4,40,Salvador
+2025-02-24,Camiseta,Roupas,4,50,Salvador
+2025-06-19,Chinelo,Calçados,2,40,Porto Alegre
+2025-03-22,Relógio,Acessórios,1,250,Porto Alegre
+2025-02-02,Chinelo,Calçados,4,40,Rio de Janeiro
+2025-06-25,Tênis,Calçados,1,200,Recife
+2025-01-08,Tênis,Calçados,4,200,Porto Alegre
+2025-01-03,Camiseta,Roupas,2,50,Porto Alegre
+2025-03-11,Calça Jeans,Roupas,1,120,Rio de Janeiro
+2025-06-16,Camiseta,Roupas,2,50,Porto Alegre
+2025-04-07,Relógio,Acessórios,3,250,Porto Alegre
+2025-04-03,Chinelo,Calçados,2,40,Rio de Janeiro
+2025-06-10,Jaqueta,Roupas,4,180,Curitiba
+2025-05-04,Chinelo,Calçados,5,40,Porto Alegre
+2025-01-06,Boné,Acessórios,5,35,Rio de Janeiro
+2025-03-21,Camiseta,Roupas,3,50,Porto Alegre
+2025-03-08,Relógio,Acessórios,3,250,São Paulo
+2025-05-08,Boné,Acessórios,2,35,Rio de Janeiro
+2025-02-23,Boné,Acessórios,3,35,Porto Alegre
+2025-04-03,Boné,Acessórios,2,35,Rio de Janeiro
+2025-03-25,Relógio,Acessórios,3,250,Recife
+2025-04-11,Tênis,Calçados,2,200,São Paulo
+2025-04-09,Calça Jeans,Roupas,3,120,São Paulo
+2025-02-10,Boné,Acessórios,2,35,São Paulo
+2025-02-09,Relógio,Acessórios,4,250,Recife
+2025-04-13,Boné,Acessórios,2,35,Porto Alegre
+2025-02-24,Camiseta,Roupas,3,50,Porto Alegre
+2025-01-16,Relógio,Acessórios,5,250,Belo Horizonte
+2025-05-01,Jaqueta,Roupas,4,180,Salvador
+2025-01-17,Camiseta,Roupas,4,50,Curitiba
+2025-05-09,Tênis,Calçados,2,200,Salvador
+2025-03-08,Camiseta,Roupas,4,50,Salvador
+2025-05-07,Camiseta,Roupas,4,50,Curitiba
+2025-01-21,Jaqueta,Roupas,5,180,São Paulo
+2025-06-08,Jaqueta,Roupas,4,180,Porto Alegre
+2025-03-14,Camiseta,Roupas,5,50,Salvador
+2025-06-25,Camiseta,Roupas,2,50,São Paulo
+2025-04-10,Chinelo,Calçados,1,40,Recife
+2025-01-30,Relógio,Acessórios,1,250,Porto Alegre
+2025-04-03,Boné,Acessórios,1,35,Curitiba
+2025-01-27,Camiseta,Roupas,4,50,Porto Alegre
+2025-06-17,Camiseta,Roupas,5,50,Recife
+2025-05-25,Jaqueta,Roupas,5,180,Belo Horizonte
+2025-03-10,Chinelo,Calçados,5,40,Curitiba
+2025-05-29,Calça Jeans,Roupas,2,120,São Paulo
+2025-03-06,Calça Jeans,Roupas,1,120,São Paulo
+2025-02-05,Tênis,Calçados,5,200,Recife
+2025-01-06,Boné,Acessórios,1,35,Curitiba
+2025-03-14,Boné,Acessórios,4,35,São Paulo
+2025-01-23,Jaqueta,Roupas,5,180,Belo Horizonte
+2025-06-15,Jaqueta,Roupas,5,180,Rio de Janeiro
+2025-01-16,Calça Jeans,Roupas,3,120,Curitiba
+2025-06-06,Relógio,Acessórios,5,250,Recife
+2025-01-22,Jaqueta,Roupas,4,180,São Paulo
+2025-03-04,Tênis,Calçados,1,200,Belo Horizonte
+2025-05-18,Chinelo,Calçados,5,40,Porto Alegre
+2025-04-13,Chinelo,Calçados,5,40,Curitiba
+2025-03-24,Relógio,Acessórios,1,250,Salvador
+2025-04-02,Jaqueta,Roupas,2,180,Curitiba
+2025-01-30,Calça Jeans,Roupas,2,120,Porto Alegre
+2025-03-16,Tênis,Calçados,4,200,São Paulo
+2025-03-29,Calça Jeans,Roupas,3,120,Belo Horizonte
+2025-04-11,Relógio,Acessórios,1,250,Curitiba
+2025-02-06,Camiseta,Roupas,1,50,Salvador
+2025-04-17,Jaqueta,Roupas,5,180,Curitiba
+2025-06-26,Boné,Acessórios,1,35,São Paulo
+2025-05-08,Chinelo,Calçados,5,40,Recife
+2025-06-26,Chinelo,Calçados,3,40,Belo Horizonte
+2025-06-07,Camiseta,Roupas,2,50,Recife
+2025-03-19,Jaqueta,Roupas,3,180,Salvador
+2025-06-10,Tênis,Calçados,1,200,Rio de Janeiro
+2025-05-29,Calça Jeans,Roupas,1,120,Belo Horizonte
+2025-03-25,Jaqueta,Roupas,5,180,Porto Alegre
+2025-03-30,Chinelo,Calçados,5,40,São Paulo
+2025-03-09,Camiseta,Roupas,1,50,Rio de Janeiro
+2025-06-30,Calça Jeans,Roupas,4,120,Curitiba
+2025-01-05,Tênis,Calçados,4,200,Belo Horizonte
+2025-06-05,Camiseta,Roupas,3,50,Porto Alegre
+2025-06-09,Chinelo,Calçados,3,40,Salvador
+2025-04-02,Jaqueta,Roupas,1,180,Salvador
+2025-01-05,Camiseta,Roupas,3,50,São Paulo
+2025-06-24,Chinelo,Calçados,2,40,Recife
+2025-05-05,Boné,Acessórios,3,35,São Paulo
+2025-03-11,Tênis,Calçados,2,200,Belo Horizonte
+2025-05-04,Chinelo,Calçados,2,40,Salvador
+2025-01-30,Calça Jeans,Roupas,4,120,São Paulo
+2025-03-06,Tênis,Calçados,5,200,Porto Alegre
+2025-04-14,Jaqueta,Roupas,2,180,Porto Alegre
+2025-03-28,Chinelo,Calçados,4,40,Porto Alegre
+2025-06-16,Boné,Acessórios,2,35,Recife
+2025-01-16,Jaqueta,Roupas,4,180,Curitiba
+2025-05-06,Boné,Acessórios,4,35,Curitiba
+2025-03-07,Tênis,Calçados,5,200,Belo Horizonte
+2025-05-21,Relógio,Acessórios,5,250,Curitiba
+2025-03-12,Boné,Acessórios,5,35,Curitiba
+2025-03-25,Calça Jeans,Roupas,4,120,São Paulo
+2025-04-03,Boné,Acessórios,2,35,Rio de Janeiro
+2025-05-24,Boné,Acessórios,4,35,Rio de Janeiro
+2025-04-07,Camiseta,Roupas,3,50,Salvador
+2025-01-10,Tênis,Calçados,2,200,Belo Horizonte
+2025-05-07,Camiseta,Roupas,4,50,Curitiba
+2025-06-03,Chinelo,Calçados,4,40,Belo Horizonte
+2025-06-25,Calça Jeans,Roupas,2,120,Rio de Janeiro
+2025-05-06,Calça Jeans,Roupas,4,120,Curitiba
+2025-01-24,Tênis,Calçados,5,200,São Paulo
+2025-03-08,Camiseta,Roupas,5,50,Curitiba
+2025-05-26,Tênis,Calçados,5,200,São Paulo
+2025-01-25,Chinelo,Calçados,4,40,São Paulo
+2025-01-05,Calça Jeans,Roupas,3,120,Belo Horizonte
+2025-05-16,Boné,Acessórios,3,35,Belo Horizonte
+2025-03-13,Relógio,Acessórios,2,250,Salvador
+2025-01-12,Jaqueta,Roupas,3,180,Belo Horizonte
+2025-01-28,Calça Jeans,Roupas,3,120,Belo Horizonte
+2025-02-23,Boné,Acessórios,3,35,São Paulo
+2025-04-21,Chinelo,Calçados,1,40,Salvador
+2025-01-24,Calça Jeans,Roupas,3,120,Belo Horizonte
+2025-04-02,Relógio,Acessórios,2,250,São Paulo
+2025-01-19,Jaqueta,Roupas,3,180,Rio de Janeiro
+2025-03-01,Relógio,Acessórios,4,250,Porto Alegre
+2025-03-13,Boné,Acessórios,5,35,Porto Alegre
+2025-06-13,Camiseta,Roupas,3,50,Rio de Janeiro
+2025-04-22,Boné,Acessórios,1,35,Salvador
+2025-02-15,Calça Jeans,Roupas,2,120,Porto Alegre
+2025-05-29,Calça Jeans,Roupas,5,120,Recife
+2025-02-23,Tênis,Calçados,2,200,Rio de Janeiro
+2025-01-19,Camiseta,Roupas,3,50,Curitiba
+2025-05-15,Camiseta,Roupas,2,50,Curitiba
+2025-06-28,Tênis,Calçados,3,200,Salvador
+2025-02-08,Chinelo,Calçados,3,40,Salvador
+2025-04-08,Camiseta,Roupas,5,50,São Paulo
+2025-03-04,Jaqueta,Roupas,3,180,Curitiba
+2025-03-22,Chinelo,Calçados,1,40,São Paulo
+2025-06-13,Relógio,Acessórios,4,250,Recife
+2025-03-23,Jaqueta,Roupas,4,180,Curitiba
+2025-05-08,Tênis,Calçados,2,200,Curitiba
+2025-05-25,Tênis,Calçados,2,200,Curitiba
+2025-06-25,Relógio,Acessórios,4,250,Salvador
+2025-05-20,Chinelo,Calçados,1,40,Belo Horizonte
+2025-05-27,Boné,Acessórios,5,35,Rio de Janeiro
+2025-06-24,Tênis,Calçados,2,200,Recife
+2025-04-28,Camiseta,Roupas,2,50,Belo Horizonte
+2025-03-04,Boné,Acessórios,3,35,Salvador
+2025-03-30,Relógio,Acessórios,5,250,Porto Alegre
+2025-05-21,Jaqueta,Roupas,3,180,Rio de Janeiro
+2025-01-28,Chinelo,Calçados,1,40,Belo Horizonte
+2025-01-31,Calça Jeans,Roupas,3,120,Rio de Janeiro
+2025-05-06,Boné,Acessórios,1,35,Recife
+2025-03-16,Jaqueta,Roupas,4,180,Rio de Janeiro
+2025-01-29,Jaqueta,Roupas,2,180,São Paulo
+2025-04-14,Relógio,Acessórios,2,250,Curitiba
+2025-04-18,Camiseta,Roupas,2,50,Salvador
+2025-04-13,Relógio,Acessórios,1,250,Porto Alegre
+2025-03-27,Boné,Acessórios,4,35,Curitiba
+2025-05-02,Tênis,Calçados,2,200,Porto Alegre
+2025-04-30,Relógio,Acessórios,1,250,Rio de Janeiro
+2025-01-06,Calça Jeans,Roupas,3,120,Porto Alegre
+2025-03-08,Relógio,Acessórios,1,250,Salvador
+2025-01-15,Camiseta,Roupas,5,50,Porto Alegre
+2025-02-24,Relógio,Acessórios,1,250,Salvador
+2025-03-11,Chinelo,Calçados,2,40,Porto Alegre
+2025-02-10,Chinelo,Calçados,5,40,Recife
+2025-04-17,Boné,Acessórios,2,35,Recife
+2025-04-23,Tênis,Calçados,2,200,Salvador
+2025-04-25,Calça Jeans,Roupas,1,120,Belo Horizonte
+2025-05-07,Tênis,Calçados,1,200,Porto Alegre
+2025-06-03,Chinelo,Calçados,5,40,Salvador
+2025-05-01,Jaqueta,Roupas,1,180,Belo Horizonte
+2025-05-26,Tênis,Calçados,5,200,Salvador
+2025-04-01,Boné,Acessórios,1,35,Belo Horizonte
+2025-04-08,Jaqueta,Roupas,5,180,Salvador
+2025-06-28,Boné,Acessórios,2,35,Curitiba
+2025-04-23,Relógio,Acessórios,5,250,Rio de Janeiro
+2025-03-25,Boné,Acessórios,2,35,Porto Alegre
+2025-06-05,Chinelo,Calçados,2,40,Curitiba
+2025-02-17,Camiseta,Roupas,4,50,Recife
+2025-01-14,Tênis,Calçados,1,200,Salvador
+2025-01-13,Boné,Acessórios,4,35,Salvador
+2025-02-11,Jaqueta,Roupas,3,180,Porto Alegre
+2025-01-04,Jaqueta,Roupas,2,180,Curitiba
+2025-06-19,Relógio,Acessórios,4,250,Curitiba
+2025-05-25,Boné,Acessórios,3,35,Recife
+2025-01-28,Tênis,Calçados,1,200,Porto Alegre
+2025-05-17,Chinelo,Calçados,3,40,Belo Horizonte
+2025-05-13,Boné,Acessórios,1,35,Rio de Janeiro
+2025-02-02,Relógio,Acessórios,5,250,Recife
+2025-05-24,Relógio,Acessórios,3,250,Belo Horizonte
+2025-05-01,Chinelo,Calçados,1,40,Porto Alegre
+2025-02-27,Boné,Acessórios,1,35,Porto Alegre
