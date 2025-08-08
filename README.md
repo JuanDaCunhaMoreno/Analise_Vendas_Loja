@@ -4,6 +4,10 @@ Este projeto tem como objetivo aplicar conceitos básicos de análise de dados u
 
 ---
 
+## 📁 Estrutura do Projeto
+
+---
+
 ## 🧪 Ferramentas Utilizadas
 
 - Python 3.x  
